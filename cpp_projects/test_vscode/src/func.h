@@ -1,0 +1,10 @@
+#include <iostream>
+#include <vector>
+#include <string>
+
+#ifndef FUNC_H_
+#define FUNC_H_
+
+void Cycle(int msg);
+
+#endif

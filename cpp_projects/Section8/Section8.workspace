@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="types_casting" Path="types_casting/types_casting.project" Active="No"/>
+  <Project Name="boolalfa" Path="boolalfa/boolalfa.project" Active="No"/>
+  <Project Name="compare" Path="compare/compare.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="types_casting" ConfigName="Debug"/>
+      <Project Name="boolalfa" ConfigName="Debug"/>
+      <Project Name="compare" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="types_casting" ConfigName="Release"/>
+      <Project Name="boolalfa" ConfigName="Release"/>
+      <Project Name="compare" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

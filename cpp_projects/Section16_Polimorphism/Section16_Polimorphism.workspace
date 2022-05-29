@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section16_Polimorphism" Database="" Version="10000">
+  <Project Name="PolimorphismProblem" Path="PolimorphismExample/PolimorphismExample.project" Active="No"/>
+  <Project Name="PolimorphismVirtualFunctions" Path="PolimorphismVirtualFunctions/PolimorphismVirtualFunctions.project" Active="No"/>
+  <Project Name="PolimorphismVirtualDestructor" Path="PolimorphismVirtualDestructor/PolimorphismVirtualDestructor.project" Active="No"/>
+  <Project Name="PolimorphismBaseClassReference" Path="PolimorphismBaseClassReferance/PolimorphismBaseClassReferance.project" Active="Yes"/>
+  <Project Name="Polimorphism_PureVirtualFunctions" Path="Polimorphism_PureVirtualFunctions/Polimorphism_PureVirtualFunctions.project" Active="No"/>
+  <Project Name="Polimorphism_InterfaceComplete" Path="Polimorphism_InterfaceComplete/Polimorphism_InterfaceComplete.project" Active="No"/>
+  <Project Name="Polimorphism_Challenge" Path="Polimorphism_Challenge/Polimorphism_Challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="PolimorphismProblem" ConfigName="Debug"/>
+      <Project Name="PolimorphismVirtualFunctions" ConfigName="Debug"/>
+      <Project Name="PolimorphismVirtualDestructor" ConfigName="Debug"/>
+      <Project Name="PolimorphismBaseClassReference" ConfigName="Debug"/>
+      <Project Name="Polimorphism_PureVirtualFunctions" ConfigName="Debug"/>
+      <Project Name="Polimorphism_InterfaceComplete" ConfigName="Debug"/>
+      <Project Name="Polimorphism_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="PolimorphismProblem" ConfigName="Release"/>
+      <Project Name="PolimorphismVirtualFunctions" ConfigName="Release"/>
+      <Project Name="PolimorphismVirtualDestructor" ConfigName="Release"/>
+      <Project Name="PolimorphismBaseClassReference" ConfigName="Release"/>
+      <Project Name="Polimorphism_PureVirtualFunctions" ConfigName="Release"/>
+      <Project Name="Polimorphism_InterfaceComplete" ConfigName="Release"/>
+      <Project Name="Polimorphism_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section13_OOP" Database="" Version="10000">
+  <Project Name="Classes" Path="Classes/Classes.project" Active="No"/>
+  <Project Name="MethodsImplement" Path="MethodsImplement/MethodsImplement.project" Active="No"/>
+  <Project Name="ConstructorsDestructors" Path="ConstructorsDestructors/ConstructorsDestructors.project" Active="No"/>
+  <Project Name="DefaultConstructor" Path="DefaultConstructor/DefaultConstructor.project" Active="No"/>
+  <Project Name="ConstructorInitList" Path="ConstructorInitList/ConstructorInitList.project" Active="No"/>
+  <Project Name="ConstructorsDeligating" Path="ConstructorsDeligating/ConstructorsDeligating.project" Active="No"/>
+  <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="No"/>
+  <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
+  <Project Name="DeepCopy" Path="DeepCopy/DeepCopy.project" Active="No"/>
+  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="No"/>
+  <Project Name="thisKeyword" Path="thisKeyword/thisKeyword.project" Active="No"/>
+  <Project Name="constInClass" Path="constInClass/constInClass.project" Active="No"/>
+  <Project Name="staticClassMembers" Path="staticClassMembers/staticClassMembers.project" Active="No"/>
+  <Project Name="friend" Path="friend/friend.project" Active="No"/>
+  <Project Name="_Movies" Path="_Movies/_Movies.project" Active="No"/>
+  <Project Name="_FrankMovies" Path="_FrankMovies/_FrankMovies.project" Active="Yes"/>
+  <Project Name="_CallengeSolution" Path="callengeSolution/callengeSolution.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Classes" ConfigName="Debug"/>
+      <Project Name="MethodsImplement" ConfigName="Debug"/>
+      <Project Name="ConstructorsDestructors" ConfigName="Debug"/>
+      <Project Name="DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="ConstructorInitList" ConfigName="Debug"/>
+      <Project Name="ConstructorsDeligating" ConfigName="Debug"/>
+      <Project Name="CopyConstructor" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
+      <Project Name="DeepCopy" ConfigName="Debug"/>
+      <Project Name="MoveConstructor" ConfigName="Debug"/>
+      <Project Name="thisKeyword" ConfigName="Debug"/>
+      <Project Name="constInClass" ConfigName="Debug"/>
+      <Project Name="staticClassMembers" ConfigName="Debug"/>
+      <Project Name="friend" ConfigName="Debug"/>
+      <Project Name="_Movies" ConfigName="Debug"/>
+      <Project Name="_FrankMovies" ConfigName="Debug"/>
+      <Project Name="_CallengeSolution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Classes" ConfigName="Release"/>
+      <Project Name="MethodsImplement" ConfigName="Release"/>
+      <Project Name="ConstructorsDestructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructor" ConfigName="Release"/>
+      <Project Name="ConstructorInitList" ConfigName="Release"/>
+      <Project Name="ConstructorsDeligating" ConfigName="Release"/>
+      <Project Name="CopyConstructor" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
+      <Project Name="DeepCopy" ConfigName="Release"/>
+      <Project Name="MoveConstructor" ConfigName="Release"/>
+      <Project Name="thisKeyword" ConfigName="Release"/>
+      <Project Name="constInClass" ConfigName="Release"/>
+      <Project Name="staticClassMembers" ConfigName="Release"/>
+      <Project Name="friend" ConfigName="Release"/>
+      <Project Name="_Movies" ConfigName="Release"/>
+      <Project Name="_FrankMovies" ConfigName="Release"/>
+      <Project Name="_CallengeSolution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

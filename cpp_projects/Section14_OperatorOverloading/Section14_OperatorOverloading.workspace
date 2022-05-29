@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section14_OperatorOverloading" Database="" Version="10000">
+  <Project Name="OperatorOverloadingAsMemberFunc" Path="AssignmentOperatorOverloading/AssignmentOperatorOverloading.project" Active="No"/>
+  <Project Name="OperatorOverloadingAssignment" Path="OperatorOverloadingAsMemberFunction/OperatorOverloadingAsMemberFunction.project" Active="No"/>
+  <Project Name="OperatorOverloadingAsExternalFunc" Path="OperatorOverloadingAsExternalFunc/OperatorOverloadingAsExternalFunc.project" Active="No"/>
+  <Project Name="ChallengeExternalFunctions" Path="ChallengeMemberFunctions/ChallengeMemberFunctions.project" Active="Yes"/>
+  <Project Name="ChallengeMembersFunctions" Path="ChallengeMembersFunctions/ChallengeMembersFunctions.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="OperatorOverloadingAsMemberFunc" ConfigName="Debug"/>
+      <Project Name="OperatorOverloadingAssignment" ConfigName="Debug"/>
+      <Project Name="OperatorOverloadingAsExternalFunc" ConfigName="Debug"/>
+      <Project Name="ChallengeExternalFunctions" ConfigName="Debug"/>
+      <Project Name="ChallengeMembersFunctions" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="OperatorOverloadingAsMemberFunc" ConfigName="Release"/>
+      <Project Name="OperatorOverloadingAssignment" ConfigName="Release"/>
+      <Project Name="OperatorOverloadingAsExternalFunc" ConfigName="Release"/>
+      <Project Name="ChallengeExternalFunctions" ConfigName="Release"/>
+      <Project Name="ChallengeMembersFunctions" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

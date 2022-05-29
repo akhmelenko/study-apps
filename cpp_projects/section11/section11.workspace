@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10000">
+  <Project Name="functionDefaultArgumentValue" Path="functionDefaultArgumentValue/functionDefaultArgumentValue.project" Active="No"/>
+  <Project Name="funcOverloading" Path="funcOverloading/funcOverloading.project" Active="No"/>
+  <Project Name="passByRef" Path="passByRef/passByRef.project" Active="No"/>
+  <Project Name="recuesiveFunc" Path="recuesiveFunc/recuesiveFunc.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="functionDefaultArgumentValue" ConfigName="Debug"/>
+      <Project Name="funcOverloading" ConfigName="Debug"/>
+      <Project Name="passByRef" ConfigName="Debug"/>
+      <Project Name="recuesiveFunc" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="functionDefaultArgumentValue" ConfigName="Release"/>
+      <Project Name="funcOverloading" ConfigName="Release"/>
+      <Project Name="passByRef" ConfigName="Release"/>
+      <Project Name="recuesiveFunc" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

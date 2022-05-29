@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sectoin15_Inheritance" Database="" Version="10000">
+  <Project Name="Inheritance" Path="Inheritance/Inheritance.project" Active="No"/>
+  <Project Name="ConstructorAndDestructor" Path="ConstructorAndDestructor/ConstructorAndDestructor.project" Active="No"/>
+  <Project Name="BaseClassInit" Path="BaseClassInit/BaseClassInit.project" Active="No"/>
+  <Project Name="CopyAndMoveConstructors" Path="CopyAndMoveConstructors/CopyAndMoveConstructors.project" Active="No"/>
+  <Project Name="RedefindingBaseClassMethods" Path="RedefindingBaseClassMethods/RedefindingBaseClassMethods.project" Active="No"/>
+  <Project Name="refresh" Path="refresh/refresh.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Inheritance" ConfigName="Debug"/>
+      <Project Name="ConstructorAndDestructor" ConfigName="Debug"/>
+      <Project Name="BaseClassInit" ConfigName="Debug"/>
+      <Project Name="CopyAndMoveConstructors" ConfigName="Debug"/>
+      <Project Name="RedefindingBaseClassMethods" ConfigName="Debug"/>
+      <Project Name="refresh" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Inheritance" ConfigName="Release"/>
+      <Project Name="ConstructorAndDestructor" ConfigName="Release"/>
+      <Project Name="BaseClassInit" ConfigName="Release"/>
+      <Project Name="CopyAndMoveConstructors" ConfigName="Release"/>
+      <Project Name="RedefindingBaseClassMethods" ConfigName="Release"/>
+      <Project Name="refresh" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

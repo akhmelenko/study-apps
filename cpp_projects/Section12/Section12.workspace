@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section12" Database="" Version="10000">
+  <Project Name="MemoryAlloc" Path="MemoryAlloc/MemoryAlloc.project" Active="No"/>
+  <Project Name="vectorPtr" Path="vectorPtr/vectorPtr.project" Active="No"/>
+  <Project Name="rangeBasedForIteratorCopy" Path="rangeBasedForIteratorCopy/rangeBasedForIteratorCopy.project" Active="No"/>
+  <Project Name="AllocArrayInsideFunc" Path="AllocArrayInsideFunc/AllocArrayInsideFunc.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MemoryAlloc" ConfigName="Debug"/>
+      <Project Name="vectorPtr" ConfigName="Debug"/>
+      <Project Name="rangeBasedForIteratorCopy" ConfigName="Debug"/>
+      <Project Name="AllocArrayInsideFunc" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MemoryAlloc" ConfigName="Release"/>
+      <Project Name="vectorPtr" ConfigName="Release"/>
+      <Project Name="rangeBasedForIteratorCopy" ConfigName="Release"/>
+      <Project Name="AllocArrayInsideFunc" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

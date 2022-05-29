@@ -1,0 +1,5 @@
+/home/antonh/Desktop/my_projects/Cmake_build/build/CMakeFiles/rebuild_cache.dir
+/home/antonh/Desktop/my_projects/Cmake_build/build/CMakeFiles/edit_cache.dir
+/home/antonh/Desktop/my_projects/Cmake_build/build/CMakeFiles/my_lib_bye.dir
+/home/antonh/Desktop/my_projects/Cmake_build/build/CMakeFiles/myprog.dir
+/home/antonh/Desktop/my_projects/Cmake_build/build/CMakeFiles/my_lib.dir

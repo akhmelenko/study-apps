@@ -1,0 +1,9 @@
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/install/strip.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/install/local.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/install.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/my_lib.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/myprog.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/edit_cache.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/rebuild_cache.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/my_lib_bye.dir
+/home/antonh/Desktop/my_projects/Cmake/build/CMakeFiles/list_install_components.dir

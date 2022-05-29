@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 2.8)
+
+project(project_name)
+
+set(SRC_EXE main.cpp)
+
+set(SRC_LIB lib.cpp)
+set(SRC_LIB2 lib2.cpp)
+
+add_library(lib STATIC ${SRC_LIB})
+add_library(lib2 STATIC ${SRC_LIB2})
+
+add_executable(out ${SRC_EXE})
+
+target_link_libraries(out lib lib2)

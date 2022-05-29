@@ -1,0 +1,21 @@
+#!/bin/bash
+input="file.txt"
+while IFS= read -r line;
+do
+	#var x = ${line:0:1};
+	#var format = 0; # 0 - (xxx) xxx-xxxx; 1 - xxx-xxx-xxxx
+	if ((${line:0:1} == '(')); then
+		$format = 0;
+		echo "format with ()";
+	elif ((${line:0:1} == '9' )); then
+		$format = 1;
+		echo "fomat without ()";
+	#else
+	#	continue
+	fi
+	#for ((i = 0; i < ${#line}; i++)); do
+	#	echo "${line:i:1}";
+	#done;
+	#echo "${line}";
+	#echo "";
+done < "$input";

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section9" Database="" Version="10000">
+  <Project Name="if_no_braces" Path="if_no_braces/if_no_braces.project" Active="No"/>
+  <Project Name="setprecision" Path="setprecision/setprecision.project" Active="No"/>
+  <Project Name="range_based_loop" Path="range_based_loop/range_based_loop.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="if_no_braces" ConfigName="Debug"/>
+      <Project Name="setprecision" ConfigName="Debug"/>
+      <Project Name="range_based_loop" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="if_no_braces" ConfigName="Release"/>
+      <Project Name="setprecision" ConfigName="Release"/>
+      <Project Name="range_based_loop" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

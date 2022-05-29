@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section10" Database="" Version="10000">
+  <Project Name="c_style_strings" Path="c_style_strings/c_style_strings.project" Active="No"/>
+  <Project Name="cppStyle" Path="cppStyle/cppStyle.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="c_style_strings" ConfigName="Debug"/>
+      <Project Name="cppStyle" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="c_style_strings" ConfigName="Release"/>
+      <Project Name="cppStyle" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

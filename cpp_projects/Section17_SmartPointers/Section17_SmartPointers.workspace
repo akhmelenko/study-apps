@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section17_SmartPointers" Database="" Version="10000">
+  <Project Name="SmartPointers_UniquePointers" Path="SmartPointers_UniqPointers/SmartPointers_UniqPointers.project" Active="No"/>
+  <Project Name="SmartPointers_SharedPointers" Path="SmartPointers_SharedPointers/SmartPointers_SharedPointers.project" Active="No"/>
+  <Project Name="SmartPointers_WeakPointers" Path="SmartPointers_WeakPointers/SmartPointers_WeakPointers.project" Active="No"/>
+  <Project Name="SmartPointers_CustomDeleters" Path="SmartPointers_CustomDeleters/SmartPointers_CustomDeleters.project" Active="No"/>
+  <Project Name="SmartPointers_Challenge1" Path="SmartPointers_Challenge1/SmartPointers_Challenge1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="SmartPointers_UniquePointers" ConfigName="Debug"/>
+      <Project Name="SmartPointers_SharedPointers" ConfigName="Debug"/>
+      <Project Name="SmartPointers_WeakPointers" ConfigName="Debug"/>
+      <Project Name="SmartPointers_CustomDeleters" ConfigName="Debug"/>
+      <Project Name="SmartPointers_Challenge1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SmartPointers_UniquePointers" ConfigName="Release"/>
+      <Project Name="SmartPointers_SharedPointers" ConfigName="Release"/>
+      <Project Name="SmartPointers_WeakPointers" ConfigName="Release"/>
+      <Project Name="SmartPointers_CustomDeleters" ConfigName="Release"/>
+      <Project Name="SmartPointers_Challenge1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
